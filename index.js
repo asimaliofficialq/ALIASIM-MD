@@ -85,7 +85,7 @@ const {
   ║ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ALIASIM-MD       
   ╚═════════════════╝
 `;
-  conn.sendMessage(ownerNumber + "923230755942@s.whatsapp.net", { image: { url: `https://files.catbox.moe/atby2t.png` }, caption: up })
+  conn.sendMessage(ownerNumber + "923230755942@s.whatsapp.net", { image: { url: `https://i.ibb.co/Z1SF1HxR/IMG-20250423-WA0053.jpg` }, caption: up })
   
   }
   })
